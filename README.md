@@ -2,11 +2,13 @@
   
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<h1 align="center"><b>Hi, I'm Angel Del Castillo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGP8M_mF-p5-A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731159301085?e=1741824000&v=beta&t=x7Z6tkzN18HyOK59FxhBwLwuh-YNGm1UpWyEI1YV1Q0">
   
-<p align="center">
+<p align="center">&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F70A0A&random=true&width=435&lines=I'm+software+engineer+student;I+love+building+useful+software;I+use+Python%2C+Js%2C+and+Java;I+work+with+React+and+MongoDB;I+always+learn+and+innovate;I+love+learning+new+architectures" alt="Typing SVG" /></a>
 </p>
+
+<h1 align="center"><b>Hi, I'm Angel Del Castillo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🌟 **About Me**
 - 🌱 A passionate software developer and problem solver.  
