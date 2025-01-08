@@ -57,13 +57,13 @@
 
 <li>
 <a href="https://www.linkedin.com/in/angel-alexis-del-castillo-lerma-a49b67268/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  AngelDelCastillo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Angel Del Castillo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <li>
 <a href="gmailto:angelrap.2222@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  angelrap.2222@gmail.com%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Angelrap.2222@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
