@@ -5,9 +5,7 @@
 <h1 align="center"><b>Hi, I'm Angel Del Castillo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70A0A&width=435&lines=I'm+Angel%2C+a+software+engineer+student;I+love+building+useful+software;I+use+Python%2C+JavaScript%2C+and+Java;I+work+with+React+and+MongoDB;I+always+learn+and+innovate" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F70A0A&random=true&width=435&lines=I'm+software+engineer+student;I+love+building+useful+software;I+use+Python%2C+Js%2C+and+Java;I+work+with+React+and+MongoDB;I+always+learn+and+innovate;I+love+learning+new+architectures" alt="Typing SVG" /></a>
 </p>
 
 ## 🌟 **About Me**
