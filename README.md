@@ -62,8 +62,8 @@
 </li>
 
 <li>
-<a href="mailto:angelrap.2222@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  AngelDelCastillo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="gmailto:angelrap.2222@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  angelrap.2222@gmail.com%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
