@@ -41,7 +41,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-%2347A248.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 🛠️ Frameworks & Tools:
